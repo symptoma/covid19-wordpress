@@ -42,9 +42,24 @@ function symptoma_covid19_register_settings() {
 function symptoma_covid19_hook_header() {
 
     $width =  esc_attr( get_option('width') );
+    if($width == ""){
+        $width = 450;
+    }
+
     $height =  esc_attr( get_option('height') );
+    if($height == ""){
+        $height = 600;
+    }
+
     $elevation =  esc_attr( get_option('elevation') );
+    if($elevation == ""){
+        $elevation = 1000;
+    }
+
     $introtext =  esc_attr( get_option('introtext') );
+    if($introtext == ""){
+        $introtext = "Hallo, hier schreibt Symptoma, Partner vom Magazin Seltene Krankheiten.";
+    }
 
     include "views/header-hook-view.php";
 
