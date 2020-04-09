@@ -11,8 +11,7 @@
 
 
 add_action( 'admin_menu', 'symptoma_covid19_init' );
-add_action( 'admin_init', 'symptoma_covid19_register_settings' );
-add_action('wp_head','symptoma_covid19_hook_header');
+add_action('wp_footer','symptoma_covid19_hook_footer');
 
 define("SYMPTOMA_COVID19_SLUG", 'symptoma-covid19');
 
@@ -29,39 +28,9 @@ function symptoma_covid19_backend(){
     include "views/settings-view.php";
 }
 
-function symptoma_covid19_register_settings() {
+function symptoma_covid19_hook_footer() {
 
-    $itemSlug = SYMPTOMA_COVID19_SLUG."-item";
-
-    register_setting( $itemSlug, 'elevation' , ["type" =>'integer', "default" => 1000]);
-    register_setting( $itemSlug, 'introtext' , ["type" =>'string', "default" => "Hallo, hier schreibt Symptoma, Partner vom Magazin Seltene Krankheiten."]);
-    register_setting( $itemSlug, 'height' , ["type" =>'integer', "default" => 600]);
-    register_setting( $itemSlug, 'width' , ["type" =>'integer', "default" => 450]);
-}
-
-function symptoma_covid19_hook_header() {
-
-    $width =  esc_attr( get_option('width') );
-    if($width == ""){
-        $width = 450;
-    }
-
-    $height =  esc_attr( get_option('height') );
-    if($height == ""){
-        $height = 600;
-    }
-
-    $elevation =  esc_attr( get_option('elevation') );
-    if($elevation == ""){
-        $elevation = 1000;
-    }
-
-    $introtext =  esc_attr( get_option('introtext') );
-    if($introtext == ""){
-        $introtext = "Hallo, hier schreibt Symptoma, Partner vom Magazin Seltene Krankheiten.";
-    }
-
-    include "views/header-hook-view.php";
+    include "views/footer-hook-view.php";
 
 }
 

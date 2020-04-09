@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Symptoma Covid19 Wordpress Plugin\n"
-"POT-Creation-Date: 2020-04-09 19:08+0200\n"
-"PO-Revision-Date: 2020-04-09 19:31+0200\n"
+"POT-Creation-Date: 2020-04-09 19:13+0200\n"
+"PO-Revision-Date: 2020-04-09 19:14+0200\n"
 "Last-Translator: \n"
 "Language-Team: Symptoma GmbH\n"
-"Language: en_GB\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,11 +22,11 @@ msgstr "COVID-19"
 
 #: header-hook-view.php:5
 msgid "BANNER_SUBTITLE"
-msgstr "Start Test"
+msgstr "Info"
 
 #: header-hook-view.php:6
 msgid "BANNER_LINK_TEXT"
-msgstr "Info"
+msgstr "Start Test"
 
 #: header-hook-view.php:7
 msgid "BANNER_LINK_URL"
@@ -34,7 +34,7 @@ msgstr "https://www.symptoma.com/covid-19"
 
 #: settings-view.php:2
 msgid "TITLE"
-msgstr "Symptoma Covid19 Test Chatbot"
+msgstr ""
 
 #~ msgid "INTRO_TEXT"
 #~ msgstr "Intro Text"
@@ -44,3 +44,6 @@ msgstr "Symptoma Covid19 Test Chatbot"
 
 #~ msgid "HEIGHT"
 #~ msgstr "Höhe"
+
+#~ msgid "WIDTH"
+#~ msgstr "Breite"

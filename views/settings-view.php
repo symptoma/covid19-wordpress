@@ -1,31 +1,40 @@
 <div class="wrap">
     <h1><?=__("TITLE", SYMPTOMA_COVID19_SLUG)?></h1>
 
-    <form method="post" action="options.php">
-        <?php settings_fields( $itemSlug ); ?>
-        <?php do_settings_sections( $itemSlug ); ?>
-        <table class="form-table">
-            <tr valign="top">
-                <th scope="row"><?=_e("INTRO_TEXT", SYMPTOMA_COVID19_SLUG)?></th>
-                <td><input type="text" name="introtext" value="<?php echo esc_attr( get_option('introtext') ); ?>" /></td>
-            </tr>
+    <p>
+        Symptoma is your digital health assistant.
+        <br />
+        It helps you understand what might be wrong, if you are feeling unwell.
+        <br /><br />
+        This plugin offers you an option to integrate Symptoma’s chatbot into your website for free.
+        <br /><br />
+        <b>It is currently designed, to bring relief for the COVID-19 pandemic.</b>
+        <br /><br />
+        Symptoma detects COVID-19 risk with 96.32% accuracy (96.66% sensitivity, 96.31% specificity, n = 1142 case reports). Study has been submitted to Nature for peer-review: www.symptoma.com/covid-19
+        <br /><br />
+        Thereafter, your users can assess risks for any disease (in +36 different languages) – for free.
 
-            <tr valign="top">
-                <th scope="row"><?=__("ELEVATION", SYMPTOMA_COVID19_SLUG)?></th>
-                <td><input type="number" name="elevation" value="<?php echo esc_attr( get_option('elevation') ); ?>" /></td>
-            </tr>
+        <br /><br />
+        Try it out for yourself: <a href="https://symptoma.com" tagret="_blank" >www.symptoma.com</a>
+        <br />
+        Simply state your symptoms and answer questions to find possible diagnosis (Symptom Checker).
+        <br /><br />
 
-            <tr valign="top">
-                <th scope="row"><?=__("HEIGHT", SYMPTOMA_COVID19_SLUG)?></th>
-                <td><input type="number" name="height" value="<?php echo esc_attr( get_option('height') ); ?>" /></td>
-            </tr>
-            <tr valign="top">
-                <th scope="row"><?=__("WIDTH", SYMPTOMA_COVID19_SLUG)?></th>
-                <td><input type="text" name="width" value="<?php echo esc_attr( get_option('width') ); ?>" /></td>
-            </tr>
-        </table>
+        Example #1: “fever”<br />
+        Example #2: “I have headache”<br />
+        Example #3: “fever, headache, cough”<br />
+        Example #4: “I have to frequently urinate.”<br />
+        Example #5: “Undercooked eggs”<br />
+        Example #6 (fun): “Donald Trump”<br />
 
-        <?php submit_button(); ?>
+        <br /><br />
+        Symptoma.com is based on 14 years of Research & Development and trained by millions of medical publications by doctors and scientists. It has won +40 international awards – most notably from the Dutch and German ministry of health, and the European commission (e.g. as best and most promising eHealth solution). Symptoma was even invited to speak in the European Parliament.
 
-    </form>
+    </p>
+    <b>Features:</b>
+    <ul>
+        <li>Let your visitors assess their risk for COVID-19 without leaving your website. </li>
+        <li>Admin option to change the width and height </li>
+        <li>Admin option to adapt the Welcome message</li>
+    </ul>
 </div>

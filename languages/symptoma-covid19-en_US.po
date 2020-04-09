@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Symptoma Covid19 Wordpress Plugin\n"
-"POT-Creation-Date: 2020-04-03 16:35+0200\n"
-"PO-Revision-Date: 2020-04-03 16:36+0200\n"
+"POT-Creation-Date: 2020-04-09 19:08+0200\n"
+"PO-Revision-Date: 2020-04-09 19:32+0200\n"
 "Last-Translator: \n"
 "Language-Team: Symptoma GmbH\n"
 "Language: en_US\n"
@@ -14,26 +14,33 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-SearchPath-0: settings-view.php\n"
+"X-Poedit-SearchPath-1: footer-hook-view.php\n"
+
+#: header-hook-view.php:4
+msgid "BANNER_TITLE"
+msgstr "COVID-19"
+
+#: header-hook-view.php:5
+msgid "BANNER_SUBTITLE"
+msgstr "Start Test"
+
+#: header-hook-view.php:6
+msgid "BANNER_LINK_TEXT"
+msgstr "Info"
+
+#: header-hook-view.php:7
+msgid "BANNER_LINK_URL"
+msgstr "https://www.symptoma.com/covid-19"
 
 #: settings-view.php:2
 msgid "TITLE"
 msgstr "Symptoma Covid19 Test Chatbot"
 
-#: settings-view.php:9
-msgid "INTRO_TEXT"
-msgstr "Intro Text"
+#~ msgid "INTRO_TEXT"
+#~ msgstr "Intro Text"
 
-#: settings-view.php:14
-msgid "ELEVATION"
-msgstr "Elevation"
+#~ msgid "ELEVATION"
+#~ msgstr "Ebene"
 
-#: settings-view.php:19
-msgid "HEIGHT"
-msgstr "Height"
-
-#: settings-view.php:23
-msgid "WIDTH"
-msgstr "Width"
-
-#~ msgid "Symptoma Covid19 Test Chatbot"
-#~ msgstr "Symptoma Covid19 Test Chatbot"
+#~ msgid "HEIGHT"
+#~ msgstr "Höhe"
