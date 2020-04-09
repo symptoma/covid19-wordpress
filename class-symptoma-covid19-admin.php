@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: Symptoma Covid19 Chatbot
+ * Plugin Name: Symptoma COVID-19 Chatbot
  * Plugin URI: https://github.com/symptoma/covid19-wordpress
- * Description: This plugin integrates the symptoma chatbot to check covid19 symptoms on a global basis
- * Version: v.0.1, 2020-03-30
+ * Description: This plugin integrates the Symptoma chatbot to check COVID-19 symptoms on a global basis
+ * Version: v0.2, 2020-04-09
  * Author: Helmuth Lammer, Thoms Lutz
- * Author URI: https://symptoma.com
+ * Author URI: https://www.symptoma.com
  * License: GNU GENERAL PUBLIC LICENSE Version 2, June 1991
  */
 
