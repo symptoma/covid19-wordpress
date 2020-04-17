@@ -6,7 +6,7 @@
         <br>
         It helps you understand what might be wrong, if you are feeling unwell.
         <br><br>
-        This plugin offers you an option to integrate Symptoma’s chatbot into your website for free.
+        This plugin offers you an option to integrate Symptoma’s chatbot into your Wordpress website for free.
         <br><br>
         <b>It is currently designed, to bring relief for the COVID-19 pandemic.</b>
         <br><br>

@@ -1,5 +1,16 @@
-# Coronavirus (COVID-19) Symptom Checker by Symptoma
-  
+=== Coronavirus (COVID-19) Symptom Checker by Symptoma ===
+Contributors: symptoma
+Tags: coronavirus, covid-19, symptoma, chatbot, symptom checker
+Requires at least: 5.1
+Tested up to: 5.4
+Requires PHP: 7.0
+Stable tag: trunk
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Integrate the Symptoma Digital Health Assistant Chatbot and let your visitors assess their risk for COVID-19.
+
+== Description ==
 Symptoma is your Digital Health Assistant. 
 
 It helps you understand what might be wrong, if you are feeling unwell. 
@@ -47,10 +58,9 @@ Your feedback is welcome.
 It helps us improve Symptoma for you. 
 
 Just send an email to hello@symptoma.com
-  
-## License
 
-[GPLv2](license.txt)
+== Screenshots ==
+1. COVID-19 Risk Assessment
 
-License: GNU GENERAL PUBLIC LICENSE Version 2, June 1991
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+== Changelog ==
+* 1.0.1 Inital release
