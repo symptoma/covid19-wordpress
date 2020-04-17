@@ -33,10 +33,10 @@ Simply state your symptoms and answer questions to find possible diagnosis (Symp
 
 Symptoma.com is based on 14 years of Research & Development and millions of medical publications by doctors and scientists. It has won +40 international awards – most notably from the Dutch and German ministry of health, and the European commission (e.g. as best and most promising eHealth solution). Symptoma was even invited to speak in the European Parliament.
 
-## Third Party services and Privacy
+## External services and Privacy
 
-The plugin embeds an external JavaScript from the Symptoma domain [symptoma.net](https://www.symptoma.net). This is needed for the plugin to function properly.
-Please read our full privacy notice here: [Privacy Notice](https://www.symptoma.com/en/privacy)
+This plugin embeds an external JavaScript from the Symptoma domain [symptoma.net](https://www.symptoma.net). This is a mandatory requirement needed for the plugin.
+Please read our full Privacy Notice [here](https://www.symptoma.com/en/privacy).
   
 ##  Features
   
