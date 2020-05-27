@@ -1,40 +1,69 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Symptoma Covid19 Wordpress Plugin\n"
-"POT-Creation-Date: 2020-04-09 19:05+0200\n"
-"PO-Revision-Date: 2020-04-09 22:34+0200\n"
+"Project-Id-Version: Symptoma COVID-19 Chatbot\n"
+"POT-Creation-Date: 2020-05-27 15:12+0200\n"
+"PO-Revision-Date: 2020-05-27 15:12+0200\n"
 "Last-Translator: \n"
-"Language-Team: Symptoma GmbH\n"
+"Language-Team: \n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
-"X-Poedit-Basepath: ../views\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-KeywordsList: __;_e\n"
-"X-Poedit-SearchPath-0: settings-view.php\n"
-"X-Poedit-SearchPath-1: footer-hook-view.php\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: class-symptoma-covid19-admin.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
 
-#: header-hook-view.php:4
+#: views/footer-hook-view.php:4
 msgid "BANNER_TITLE"
 msgstr "COVID-19"
 
-#: header-hook-view.php:5
+#: views/footer-hook-view.php:5
 msgid "BANNER_SUBTITLE"
 msgstr "Test starten"
 
-#: header-hook-view.php:6
+#: views/footer-hook-view.php:6
 msgid "BANNER_LINK_TEXT"
 msgstr "Info"
 
-#: header-hook-view.php:7
+#: views/footer-hook-view.php:7
 msgid "BANNER_LINK_URL"
-msgstr "https://www.symptoma.com/covid-19"
+msgstr "https://www.symptoma.de/covid-19"
 
-#: settings-view.php:2
+#: views/settings-view.php:2
 msgid "TITLE"
 msgstr "Symptoma COVID-19 Test Chatbot"
+
+#. Plugin Name of the plugin/theme
+msgid "Symptoma COVID-19 Chatbot"
+msgstr "Symptoma COVID-19 Chatbot"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/symptoma/covid19-wordpress"
+msgstr "https://github.com/symptoma/covid19-wordpress"
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin integrates the Symptoma chatbot to check COVID-19 symptoms on a "
+"global basis"
+msgstr ""
+"Dieses Plugin integriert den Symptoma Chatbot, um COVID-19 Symptome weltweit "
+"zu überprüfen"
+
+#. Author of the plugin/theme
+msgid "Helmuth Lammer, Thomas Lutz"
+msgstr "Helmuth Lammer, Thomas Lutz"
+
+#. Author URI of the plugin/theme
+msgid "https://www.symptoma.com"
+msgstr "https://www.symptoma.com"
 
 #~ msgid "INTRO_TEXT"
 #~ msgstr "Intro Text"
