@@ -19,7 +19,7 @@ define( "SYMPTOMA_COVID19_SLUG", 'symptoma-covid19' );
 function symptoma_covid19_init() {
 
 	$iconPath = plugin_dir_url( __FILE__ ) . "img/logo.png";
-	add_menu_page( 'Covid19', 'Covid19', 'manage_options', SYMPTOMA_COVID19_SLUG . '-item', 'symptoma_covid19_backend', $iconPath );
+	add_menu_page( 'COVID-19', 'COVID-19', 'manage_options', SYMPTOMA_COVID19_SLUG . '-item', 'symptoma_covid19_backend', $iconPath );
 
 }
 
