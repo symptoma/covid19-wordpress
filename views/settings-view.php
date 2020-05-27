@@ -1,5 +1,5 @@
 <div class="wrap">
-    <h1><?=__("TITLE", SYMPTOMA_COVID19_SLUG)?></h1>
+    <h1><?= __( "TITLE", SYMPTOMA_COVID19_SLUG ) ?></h1>
 
     <p>
         Symptoma is your Digital Health Assistant.
@@ -10,7 +10,9 @@
         <br><br>
         <b>It is currently designed, to bring relief for the COVID-19 pandemic.</b>
         <br><br>
-        Symptoma detects COVID-19 risk with 96.32% accuracy (96.66% sensitivity, 96.31% specificity, n = 1142 case reports). Study has been submitted to Nature for peer-review: <a href="https://www.symptoma.com/covid-19" target="_blank">www.symptoma.com/covid-19</a>
+        Symptoma detects COVID-19 risk with 96.32% accuracy (96.66% sensitivity, 96.31% specificity, n = 1142 case
+        reports). Study has been submitted to Nature for peer-review: <a href="https://www.symptoma.com/covid-19"
+                                                                         target="_blank">www.symptoma.com/covid-19</a>
         <br><br>
         Thereafter, your users can assess risks for any disease (in +36 different languages) – for free.
 
@@ -28,7 +30,11 @@
         Example #6 (fun): “Donald Trump”<br>
 
         <br><br>
-        <a href="https://www.symptoma.com" target="_blank">Symptoma.com</a> is based on 14 years of Research & Development and trained by millions of medical publications by doctors and scientists. It has won +40 international awards – most notably from the Dutch and German ministry of health, and the European commission (e.g. as best and most promising eHealth solution). Symptoma was even invited to speak in the European Parliament.
+        <a href="https://www.symptoma.com" target="_blank">Symptoma.com</a> is based on 14 years of Research &
+        Development and trained by millions of medical publications by doctors and scientists. It has won +40
+        international awards – most notably from the Dutch and German ministry of health, and the European commission
+        (e.g. as best and most promising eHealth solution). Symptoma was even invited to speak in the European
+        Parliament.
 
     </p>
     <b>Features:</b>
