@@ -1,4 +1,8 @@
 # Coronavirus (COVID-19) Symptom Checker by Symptoma
+
+In the Wordpress Plugin Directory: https://wordpress.org/plugins/symptoma-covid19/
+
+## Description
   
 Symptoma is your Digital Health Assistant. 
 
