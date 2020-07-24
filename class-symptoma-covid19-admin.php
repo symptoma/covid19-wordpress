@@ -40,3 +40,11 @@ function symptoma_covid19_load_textdomain() {
 }
 
 add_action( 'plugins_loaded', 'symptoma_covid19_load_textdomain' );
+
+add_shortcode( 'symptoma-covid19', 'symptoma_covid19_view_inline_chat' );
+function symptoma_covid19_view_inline_chat( $atts ) {
+
+    $content = file_get_contents( dirname( __FILE__ )  . "/views/inlinechat-shortcode-view.php");
+    return $content;
+
+}

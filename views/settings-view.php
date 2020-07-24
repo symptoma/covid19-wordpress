@@ -40,5 +40,6 @@
     <b>Features:</b>
     <ul>
         <li>Let your visitors assess their risk for COVID-19 without leaving your website.</li>
+        <li>Use the Chat inline in your posting: [symptoma-covid19]</li>
     </ul>
 </div>
