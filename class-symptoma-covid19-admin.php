@@ -3,8 +3,8 @@
  * Plugin Name: Symptoma COVID-19 Chatbot
  * Plugin URI: https://github.com/symptoma/covid19-wordpress
  * Description: This plugin integrates the Symptoma chatbot to check COVID-19 symptoms on a global basis
- * Version: 1.0.2
- * Date: 2020-05-27
+ * Version: 1.0.3
+ * Date: 2020-08-12
  * Author: Helmuth Lammer, Thomas Lutz
  * Author URI: https://www.symptoma.com
  * License: GNU GENERAL PUBLIC LICENSE Version 2, June 1991

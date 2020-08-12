@@ -2,7 +2,7 @@
 Contributors: symptoma
 Tags: coronavirus, covid-19, symptoma, chatbot, symptom checker
 Requires at least: 5.1
-Tested up to: 5.4
+Tested up to: 5.5
 Requires PHP: 5.6
 Stable tag: trunk
 License: GPLv2 or later
@@ -65,3 +65,4 @@ Just send an email to hello@symptoma.com
 == Changelog ==
 * 1.0.1 Initial release
 * 1.0.2 Changes regarding PHP compatibility, IE11 compatibility
+* 1.0.3 Added shortcode, small fixes
