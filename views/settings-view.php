@@ -1,5 +1,5 @@
 <div class="wrap">
-    <h1><?= __( "TITLE", SYMPTOMA_COVID19_SLUG ) ?></h1>
+    <h1><?= __( "Symptoma COVID-19 Test Chatbot", SYMPTOMA_COVID19_SLUG ) ?></h1>
 
     <p>
         Symptoma is your Digital Health Assistant.

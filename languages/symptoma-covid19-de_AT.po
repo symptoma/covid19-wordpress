@@ -22,23 +22,23 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: *.min.js\n"
 
 #: views/footer-hook-view.php:4
-msgid "BANNER_TITLE"
+msgid "COVID-19"
 msgstr "COVID-19"
 
 #: views/footer-hook-view.php:5
-msgid "BANNER_SUBTITLE"
+msgid "Start Test"
 msgstr "Test starten"
 
 #: views/footer-hook-view.php:6
-msgid "BANNER_LINK_TEXT"
+msgid "Info"
 msgstr "Info"
 
 #: views/footer-hook-view.php:7
-msgid "BANNER_LINK_URL"
+msgid "https://www.symptoma.com/covid-19"
 msgstr "https://www.symptoma.at/covid-19"
 
 #: views/settings-view.php:2
-msgid "TITLE"
+msgid "Symptoma COVID-19 Test Chatbot"
 msgstr "Symptoma COVID-19 Test Chatbot"
 
 #. Plugin Name of the plugin/theme
