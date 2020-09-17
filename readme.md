@@ -37,6 +37,7 @@ Please read our full Privacy Notice [here](https://www.symptoma.com/en/privacy).
 ##  Features
   
 - Let your visitors assess their risk for COVID-19 without leaving your website
+- Use a shortcode to embed the COVID-19 risk assessment anywhere in your website
   
 ##  Minimum Requirements
   

@@ -40,6 +40,6 @@
     <b>Features:</b>
     <ul>
         <li>Let your visitors assess their risk for COVID-19 without leaving your website.</li>
-        <li>Use the Chat inline in your posting: [symptoma-covid19]</li>
+        <li>Use the shortcode [symptoma-covid19] to embed the COVID-19 Risk assessment anywhere</li>
     </ul>
 </div>

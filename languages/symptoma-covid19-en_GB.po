@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Symptoma COVID-19 Chatbot\n"
-"POT-Creation-Date: 2020-05-27 15:12+0200\n"
-"PO-Revision-Date: 2020-08-12 14:40+0200\n"
+"POT-Creation-Date: 2020-09-17 14:08+0200\n"
+"PO-Revision-Date: 2020-09-17 14:09+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en_GB\n"
@@ -34,7 +34,7 @@ msgid "Info"
 msgstr "Info"
 
 #: views/footer-hook-view.php:7
-msgid "https://www.symptoma.co.uk/covid-19"
+msgid "https://www.symptoma.com/covid-19"
 msgstr "https://www.symptoma.co.uk/covid-19"
 
 #: views/settings-view.php:2
